@@ -1,0 +1,24 @@
+{
+  "name": "eli-token-optimizer",
+  "displayName": "Eli Token Optimizer",
+  "version": "1.0.0",
+  "description": "An open-source agent skill from Eli for reducing AI token usage and inference costs. Inspects LLM call sites, ranks optimization techniques, and measures cost per successful task.",
+  "author": {
+    "name": "Eli",
+    "url": "https://eli.work"
+  },
+  "license": "MIT",
+  "keywords": [
+    "llm-costs",
+    "ai-inference",
+    "token-usage",
+    "prompt-optimization",
+    "model-routing",
+    "caching",
+    "rag",
+    "agent-loops",
+    "batch-processing",
+    "token-budget"
+  ],
+  "skills": "skills"
+}
